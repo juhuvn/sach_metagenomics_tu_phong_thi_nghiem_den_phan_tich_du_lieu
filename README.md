@@ -10,7 +10,7 @@ Repository này được tạo ra nhằm mục đích giúp độc giả dễ d�
 
 Repository này chứa file:
 
-- `metagenomics_code.md`: Bao gồm toàn bộ các khối lệnh (code blocks) cho Chương 4, được sắp xếp theo từng bước phân tích.
+- `metagenomics_chuong4.md`: Bao gồm toàn bộ các khối lệnh (code blocks) cho Chương 4, được sắp xếp theo từng bước phân tích.
 
 ## Hướng dẫn sử dụng
 
